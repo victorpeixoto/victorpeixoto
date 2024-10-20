@@ -11,7 +11,8 @@
 
 📬 Onde me encontrar:
 
-Discord: victorpeixoto.dev
-E-mail: victornovaisp@gmail.com
-Portfólio
-Vamos criar algo incrível juntos! 💪
+📲 Discord: <strong>victorpeixoto.dev</strong><br/>
+📩 E-mail: victornovaisp@gmail.com<br/>
+🌐 <a href="https://victorpeixoto.vercel.app/">Portfólio<a/><br/>
+<br/>
+Vamos criar algo incrível juntos! 💪<br/>
