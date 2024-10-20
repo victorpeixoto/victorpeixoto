@@ -1,14 +1,17 @@
 # Victor Peixoto
-## Olá Pessoal! 👋
 
 <!--
 **victorpeixoto/victorpeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Me chamo Victor, sou pai de uma menina linda que me inspira a continuar estudando e ser um programador profissional.
-- 🌱 Um eterno estudante, hoje com mais aprendizado em Node.js, React.js, Vue 3, SQL e noSQL.
-- 💬 Curto empreendedorismo, games e RPG. Se tiver dicas, me chama ai!
-- :iphone: No Discord, você me encontra como victorpeixoto.dev
-- 📫 Também estou disponível pelo e-mail victornovaisp@gmail.com
-- 💻 <a href="https://victorpeixoto.vercel.app">Meu portfólio</a> 
+👾 E aí, tudo bem? Sou o Victor, desenvolvedor Fullstack, sempre em busca de desafios que me façam crescer. Com foco em back-end (Node.js) e front-end (React.js/Vue 3), acredito que a tecnologia é uma aliada poderosa para construir soluções ousadas e eficientes.
 
-Vamos construir coisas incríveis juntos! 💪
+💼 Ao longo da minha jornada, venho aprimorando habilidades que vão de bancos de dados SQL e noSQL até o desenvolvimento de APIs robustas e interfaces dinâmicas com a arquitetura ideal. Sempre resiliente, busco evoluir com cada projeto que encaro.
+
+🌱 Curto aprender constantemente, além de me aventurar no empreendedorismo, games e RPG. Gosta de conversar sobre isso ou compartilhar dicas? Só chamar!
+
+📬 Onde me encontrar:
+
+Discord: victorpeixoto.dev
+E-mail: victornovaisp@gmail.com
+Portfólio
+Vamos criar algo incrível juntos! 💪
