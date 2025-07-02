@@ -5,7 +5,7 @@
 
 👾 E aí, tudo certo? Sou o Victor, desenvolvedor fullstack web, trilhando a jornada há alguns anos e sempre buscando evoluir. Trabalho com back-end em Node.js e front-end com React ou Vue 3 — gosto de entregar soluções que funcionam na prática.
 
-⚙️ No corre do dia a dia, acabo metendo a mão em tudo um pouco: banco de dados (SQL e NoSQL), criação de APIs, integração de sistemas, e até uns toques de DevOps — boto VPS de pé, configuro NGINX, Docker, deploy... o pacote completo da vida real de dev.
+⚙️ No corre do dia a dia, acabo metendo a mão em tudo um pouco: banco de dados (SQL e NoSQL), criação de APIs, integração de sistemas, e até uns toques de DevOps — boto VPS de pé, o pacote completo da vida real de dev.
 
 🔁 Ainda tô aprendendo sobre arquitetura e boas práticas mais avançadas, mas tenho um compromisso forte com escrever código melhor a cada projeto. Errando, ajustando e seguindo em frente.
 
