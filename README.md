@@ -3,16 +3,18 @@
 <!--
 **victorpeixoto/victorpeixoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-👾 E aí, tudo bem? Sou o Victor, desenvolvedor Fullstack, sempre em busca de desafios que me façam crescer. Com foco em back-end (Node.js) e front-end (React.js/Vue 3), acredito que a tecnologia é uma aliada poderosa para construir soluções ousadas e eficientes.
+👾 E aí, tudo certo? Sou o Victor, desenvolvedor fullstack web, trilhando a jornada há alguns anos e sempre buscando evoluir. Trabalho com back-end em Node.js e front-end com React ou Vue 3 — gosto de entregar soluções que funcionam na prática.
 
-💼 Ao longo da minha jornada, venho aprimorando habilidades que vão de bancos de dados SQL e noSQL até o desenvolvimento de APIs robustas e interfaces dinâmicas com a arquitetura ideal. Sempre resiliente, busco evoluir com cada projeto que encaro.
+⚙️ No corre do dia a dia, acabo metendo a mão em tudo um pouco: banco de dados (SQL e NoSQL), criação de APIs, integração de sistemas, e até uns toques de DevOps — boto VPS de pé, configuro NGINX, Docker, deploy... o pacote completo da vida real de dev.
 
-🌱 Curto aprender constantemente, além de me aventurar no empreendedorismo, games e RPG. Gosta de conversar sobre isso ou compartilhar dicas? Só chamar!
+🔁 Ainda tô aprendendo sobre arquitetura e boas práticas mais avançadas, mas tenho um compromisso forte com escrever código melhor a cada projeto. Errando, ajustando e seguindo em frente.
+
+🎮 Fora do trampo, curto games, RPG e papos sobre tecnologia e empreendedorismo. Se quiser trocar ideia, tô por aqui.
 
 📬 Onde me encontrar:
 
-📲 Discord: <strong>victorpeixoto.dev</strong><br/>
+📲 Discord: victorpeixoto.dev<br/>
 📩 E-mail: victornovaisp@gmail.com<br/>
-🌐 <a href="https://victorpeixoto.vercel.app/">Portfólio<a/><br/>
-<br/>
-Vamos criar algo incrível juntos! 💪<br/>
+🌐 <a href="https://victorpeixoto.tech/">Portfólio</a><br/>
+
+<br/> Bora construir algo massa juntos! 💪
