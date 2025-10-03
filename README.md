@@ -18,3 +18,54 @@
 🌐 <a href="https://victorpeixoto.tech/">Portfólio</a><br/>
 
 <br/> Bora construir algo massa juntos! 💪
+
+
+Acesse meu portfólio em: 
+<a href="https://gitfollio.vercel.app/victorpeixoto"> 🔗
+  https://gitfollio.vercel.app/victorpeixoto
+</a>
+
+<!-- GitFolio:start
+{
+  "gitfolio": "on",
+  "name": "Victor Peixoto",
+  "email": "",
+  "tagline": "",
+  "avatar_url": "https://avatars.githubusercontent.com/u/53842010?v=4",
+  "website": "",
+  "githubUser": "victorpeixoto",
+  "linkedinUser": "",
+  "about": "",
+  "showStars": true,
+  "showFollowers": true,
+  "followers": 30,
+  "following": 123,
+  "themeId": "minimal",
+  "tech": [],
+  "projects": [
+  {
+    "id": 298126047,
+    "repoName": "victorpeixoto",
+    "url": "https://github.com/victorpeixoto/victorpeixoto",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  },
+  {
+    "id": 1022099989,
+    "repoName": "intranet-sample",
+    "url": "https://github.com/victorpeixoto/intranet-sample",
+    "stars": 0,
+    "description": "",
+    "image": "",
+    "techs": [],
+    "deploy": "",
+    "highlighted": false
+  }
+]
+}
+GitFolio:end -->
+  
